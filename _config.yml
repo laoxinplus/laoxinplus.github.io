@@ -8,7 +8,7 @@ keyword: "工程造价, 造价咨询, 招标代理, 材料价格, 标准图集�
 url: "https://92zj.cn"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/laoxinplus/laoxinplus.github.io.git" # you code repository
-
+language：zh-cn
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you're going to be!"
