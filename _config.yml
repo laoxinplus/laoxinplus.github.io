@@ -2,7 +2,7 @@
 title: 造价·生活
 SEOTitle: 努力工作，认真生活
 header-img: img/post-bg-desk.jpg
-email: klovien@gmail.com
+email: zaojia@yeah.net
 description: "努力工作，认真生活"
 keyword: "工程造价, 材料价格, 标准图集, 造价咨询, 招标代理"
 url: "https://klovien.github.io"          # your host, for absolute URL
@@ -61,7 +61,7 @@ kramdown:
 
 # Gitalk
 gitalk:
-  enable: true    #是否开启Gitalk评论
+  enable: false    #是否开启Gitalk评论
   clientID: d18b343dd9c7ca49518a                            #生成的clientID
   clientSecret: 539e88b8a7feffaddbb553b9c421dfefcbc6eced    #生成的clientSecret
   repo: klovien.github.io    #仓库名称
