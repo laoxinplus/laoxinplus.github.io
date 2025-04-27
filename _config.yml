@@ -101,8 +101,13 @@ friends: [
     {
         title: "聚合图床",
         href: "https://www.superbed.cn/signup?from_id=148564"
-    },{
+    },
+    {
         title: "本站搜索",
         href: "https://cn.bing.com/search?q=site%3Ahttps%3A%2F%2F92zj.cn%2F%20%E6%94%B9%E6%88%90%E8%87%AA%E5%B7%B1%E6%83%B3%E8%A6%81%E6%90%9C%E7%B4%A2%E7%9A%84%E5%86%85%E5%AE%B9&qs=n&form=QBRE&sp=-1&lq=0&pq=site%3Ahttps%3A%2F%2F92zj.cn%2F%20%E6%94%B9%E6%88%90%E8%87%AA%E5%B7%B1%E6%83%B3%E8%A6%81%E6%90%9C%E7%B4%A2%E7%9A%84%E5%86%85%E5%AE%B9&sc=0-33&sk=&cvid=F9FB7918DFDE4C789E43D144C58BCEB8"
+    }
+     {
+        title: "本站收录标准图集目录",
+        href: "https://92zj.cn/1999/01/01/%E6%9C%AC%E7%AB%99%E6%94%B6%E5%BD%95%E7%9A%84%E6%A0%87%E5%87%86%E5%9B%BE%E9%9B%86%E7%9B%AE%E5%BD%95/"
     }
 ]
