@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      民用建筑工程总平面初步设计、施工图设计深度图样 24J804
-subtitle:   标准图集 建筑图集 21J825
+subtitle:   标准图集 建筑图集 24J804
 date:       2025-04-30
 author:     峰兄
 header-img: img/the-first.png
