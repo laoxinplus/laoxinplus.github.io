@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      混凝土结构剪力墙边缘构件和框架柱构造钢筋选用（框架柱） 14G330-2
-subtitle:   标准图集 结构图集 14G330-1
+subtitle:   标准图集 结构图集 14G330-2
 date:       2025-05-19
 author:     峰兄
 header-img: img/the-first.png
