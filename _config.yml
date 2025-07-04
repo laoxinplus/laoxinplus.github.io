@@ -31,7 +31,7 @@ RSS: false
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
 permalink: pretty
-paginate: 10
+paginate: 15
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
 
@@ -64,9 +64,9 @@ gitalk:
   enable: false    #是否开启Gitalk评论
   clientID: d18b343dd9c7ca49518a                            #生成的clientID
   clientSecret: 539e88b8a7feffaddbb553b9c421dfefcbc6eced    #生成的clientSecret
-  repo: klovien.github.io    #仓库名称
-  owner: klovien    #github用户名
-  admin: klovien
+  repo: laoxinplus.github.io    #仓库名称
+  owner: laoxinplus   #github用户名
+  admin: laoxinplus
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
