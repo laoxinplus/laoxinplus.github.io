@@ -7,7 +7,7 @@ author:     峰兄
 header-img: img/the-first.png
 catalog: true
 tags:
-- 暖通空调图集
+- 动力专业图集
 - 标准图集
 ---
 ## 图集名称：民用建筑内的燃气锅炉房设计 14R106

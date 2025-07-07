@@ -7,7 +7,7 @@ author:     峰兄
 header-img: img/the-first.png
 catalog: true
 tags:
-- 暖通空调图集
+- 动力专业图集
 - 标准图集
 ---
 ## 图集名称：吸收式热泵供热系统（烟气余热回收利用工程实例） 22R114-1
