@@ -1,9 +1,9 @@
 {
-    "name": "by-blog",
-    "title": "BY Blog",
-    "author": "BY <qiubaiyingios@163.com>",
+    "name": "造价·生活",
+    "title": "造价·生活",
+    "author": "BY <zaojia@yeah.net>",
     "version": "1.7.0",
-    "homepage": "http://qiubaiying.github.io",
+    "homepage": "https://92zj.cn",
     "repository": {
         "type": "git",
         "url": "https://github.com/qiubaiying/qiubaiying.github.io"
