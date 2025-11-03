@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      2025年装修工程劳务价格供参考
-subtitle:   劳务价格 市场价
+subtitle:   劳务价格 市场价格
 date:       2025-11-01
 author:     峰兄
 header-img: img/the-first.png
