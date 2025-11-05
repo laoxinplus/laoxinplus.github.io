@@ -99,8 +99,8 @@ service-worker: true
 # 友情链接，请尽量不要删除，谢谢！
 friends: [
     {
-        title: "  本站搜索 ",
-        href: " https://92zj.cn/search/  "
+        title: "    ",
+        href: "   "
     }
 
 ]
