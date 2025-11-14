@@ -99,7 +99,7 @@ service-worker: true
 # 友情链接，请尽量不要删除，谢谢！
 friends: [
     {
-        title: "    ",
+        title: " 本站资料，仅供建筑从业人员学习使用，下载后请勿传播！如有侵权，请联系站长：zaojia@yeah.net   ",
         href: "   "
     }
 
