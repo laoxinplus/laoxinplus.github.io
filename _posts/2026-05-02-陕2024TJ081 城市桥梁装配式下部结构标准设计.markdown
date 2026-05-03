@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      陕2024TJ081 城市桥梁装配式下部结构标准设计
-subtitle:   标准图集 建筑图集  陕2024TJ081
+subtitle:   标准图集 建筑图集 陕西图集 陕2024TJ081
 date:       2026-05-02
 author:     峰兄
 header-img: img/the-first.png
