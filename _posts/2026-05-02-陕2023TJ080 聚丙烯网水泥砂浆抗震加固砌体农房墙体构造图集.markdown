@@ -7,8 +7,9 @@ author:     峰兄
 header-img: img/the-first.png
 catalog: true
 tags:
-- 建筑图集 陕西图集
+- 建筑图集 
 - 标准图集
+- 陕西图集
 ---
 ## 陕2023TJ080 聚丙烯网水泥砂浆抗震加固砌体农房墙体构造图集
 ![封面](https://pic1.imgdb.cn/item/69f6bcdcbd91a69b7b94abed.png)

@@ -7,8 +7,9 @@ author:     峰兄
 header-img: img/the-first.png
 catalog: true
 tags:
-- 建筑图集 陕西图集
+- 建筑图集 
 - 标准图集
+- 陕西图集
 ---
 ## 陕2024TJ081 城市桥梁装配式下部结构标准设计
 ![封面](https://pic1.imgdb.cn/item/69f6bcdcbd91a69b7b94abee.png)
