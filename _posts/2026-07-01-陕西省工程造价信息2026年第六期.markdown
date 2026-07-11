@@ -1,7 +1,3 @@
-<<<<<<< HEAD:_posts/2026-07-01-陕西省工程造价信息2026年第六期.markdown
-=======
-
->>>>>>> 1f0a2c35a6f3fd17b35afbdfef48290f689eddda:_posts/2026-07-01-陕西省建设工程造价信息2026年第六期.markdown
 ---
 layout:     post
 title:      陕西工程造价信息2026年第六期
@@ -30,7 +26,7 @@ tags:
 **文件放在我的移动云盘里面，下载时需要注册一个移动云盘账号，登陆后下载，稍稍麻烦一点。**   
 
   
-[**陕西工程造价信息2026年第5期下载**](https://yun.139.com/shareweb/#/w/i/2w2KKSn6Qnf57) 
+[**陕西工程造价信息2026年第6期下载**](https://yun.139.com/shareweb/#/w/i/2w2KKSn6Qnf57) 
 
 **提取码  kywu**
 
