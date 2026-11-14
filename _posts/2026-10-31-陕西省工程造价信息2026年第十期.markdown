@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      陕西工程造价信息2026年第市期
+title:      陕西工程造价信息2026年第十期
 subtitle:   陕西省材料信息价 陕西省工程造价信息
 date:       2026-10-31
 author:     峰兄
